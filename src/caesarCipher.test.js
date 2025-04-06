@@ -1,4 +1,4 @@
-import { caesarCipher } from "./casesarCipher.js"
+import { caesarCipher } from "./caesarCipher.js"
 
 describe("caesarCipher", () => {
     test("should shift letter 3 times", () => {
